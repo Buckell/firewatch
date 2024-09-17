@@ -1,0 +1,3 @@
+C:/Users/maxng/CLionProjects/firewatch/cmake-build-debug/CMakeFiles/firewatch.dir
+C:/Users/maxng/CLionProjects/firewatch/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/maxng/CLionProjects/firewatch/cmake-build-debug/CMakeFiles/rebuild_cache.dir

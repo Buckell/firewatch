@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "MSVC",
+	"compiler-id" : "MSVC",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "C:/Users/maxng/CLionProjects/firewatch/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/maxng/CLionProjects/firewatch",
+	"dir-top-bld" : "C:/Users/maxng/CLionProjects/firewatch/cmake-build-debug",
+	"dir-top-src" : "C:/Users/maxng/CLionProjects/firewatch",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/maxng/CLionProjects/firewatch/cmake-build-debug/CMakeFiles/firewatch.dir"
+}
